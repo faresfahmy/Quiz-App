@@ -1,0 +1,162 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "Hyper Links and Text Markup Language",
+    "answer_3": "Home Tool Markup Language",
+    "answer_4": "Hyper Tool Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which element is used for the largest heading?",
+    "answer_1": "<h6>",
+    "answer_2": "<heading>",
+    "answer_3": "<h1>",
+    "answer_4": "<head>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answer_1": "<break>",
+    "answer_2": "<lb>",
+    "answer_3": "<br>",
+    "answer_4": "<hr>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "Which attribute is used to provide an alternative text for an image?",
+    "answer_1": "title",
+    "answer_2": "alt",
+    "answer_3": "src",
+    "answer_4": "link",
+    "right_answer": "alt"
+  },
+  {
+    "title": "What is the correct HTML for creating a hyperlink?",
+    "answer_1": "<a>http://google.com</a>",
+    "answer_2": "<a url='http://google.com'>Google</a>",
+    "answer_3": "<a name='http://google.com'>Google</a>",
+    "answer_4": "<a href='http://google.com'>Google</a>",
+    "right_answer": "<a href='http://google.com'>Google</a>"
+  },
+  {
+    "title": "Which character is used to indicate an end tag?",
+    "answer_1": "^",
+    "answer_2": "<",
+    "answer_3": "/",
+    "answer_4": "*",
+    "right_answer": "/"
+  },
+  {
+    "title": "How can you make a numbered list?",
+    "answer_1": "<list>",
+    "answer_2": "<ul>",
+    "answer_3": "<ol>",
+    "answer_4": "<dl>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "Which HTML element is used to specify a footer for a document?",
+    "answer_1": "<bottom>",
+    "answer_2": "<section>",
+    "answer_3": "<footer>",
+    "answer_4": "<foot>",
+    "right_answer": "<footer>"
+  },
+  {
+    "title": "What is the correct HTML for making a checkbox?",
+    "answer_1": "<checkbox>",
+    "answer_2": "<input type='check'>",
+    "answer_3": "<check>",
+    "answer_4": "<input type='checkbox'>",
+    "right_answer": "<input type='checkbox'>"
+  },
+  {
+    "title": "Which element is used to define important text?",
+    "answer_1": "<strong>",
+    "answer_2": "<important>",
+    "answer_3": "<i>",
+    "answer_4": "<b>",
+    "right_answer": "<strong>"
+  },
+  {
+    "title": "What is the correct HTML for adding a background color?",
+    "answer_1": "<body bg='yellow'>",
+    "answer_2": "<body style='background-color:yellow;'>",
+    "answer_3": "<background>yellow</background>",
+    "answer_4": "<body color='yellow'>",
+    "right_answer": "<body style='background-color:yellow;'>"
+  },
+  {
+    "title": "Which HTML element defines navigation links?",
+    "answer_1": "<navigate>",
+    "answer_2": "<nav>",
+    "answer_3": "<navbar>",
+    "answer_4": "<a>",
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "Which attribute is used to specify that an input field must be filled out?",
+    "answer_1": "validate",
+    "answer_2": "placeholder",
+    "answer_3": "required",
+    "answer_4": "form-control",
+    "right_answer": "required"
+  },
+  {
+    "title": "What is the correct HTML for inserting a background image?",
+    "answer_1": "<body style='background-image:url(img.jpg)'>",
+    "answer_2": "<background img='img.jpg'>",
+    "answer_3": "<body bg='img.jpg'>",
+    "answer_4": "<img src='img.jpg' background>",
+    "right_answer": "<body style='background-image:url(img.jpg)'>"
+  },
+  {
+    "title": "Which HTML element is used to define a multi-line input field?",
+    "answer_1": "<input type='textarea'>",
+    "answer_2": "<textinput>",
+    "answer_3": "<textarea>",
+    "answer_4": "<input type='textbox'>",
+    "right_answer": "<textarea>"
+  },
+  {
+    "title": "Which HTML element is used to define the title of a document?",
+    "answer_1": "<head>",
+    "answer_2": "<meta>",
+    "answer_3": "<header>",
+    "answer_4": "<title>",
+    "right_answer": "<title>"
+  },
+  {
+    "title": "In HTML, which attribute is used to open a link in a new tab?",
+    "answer_1": "target='_blank'",
+    "answer_2": "target='new'",
+    "answer_3": "href='_new'",
+    "answer_4": "window='new'",
+    "right_answer": "target='_blank'"
+  },
+  {
+    "title": "Which HTML element is used to specify a header for a document or section?",
+    "answer_1": "<top>",
+    "answer_2": "<section>",
+    "answer_3": "<head>",
+    "answer_4": "<header>",
+    "right_answer": "<header>"
+  },
+  {
+    "title": "What is the correct HTML element for playing video files?",
+    "answer_1": "<media>",
+    "answer_2": "<video>",
+    "answer_3": "<movie>",
+    "answer_4": "<play>",
+    "right_answer": "<video>"
+  },
+  {
+    "title": "Which HTML element is used to display a scalar measurement within a range?",
+    "answer_1": "<gauge>",
+    "answer_2": "<range>",
+    "answer_3": "<meter>",
+    "answer_4": "<measure>",
+    "right_answer": "<meter>"
+  }
+]
